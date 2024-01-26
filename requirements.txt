@@ -1,0 +1,11 @@
+python-telegram-bot==13.7
+openpyxl==3.0.14
+requests==2.26.0
+stripe==7.85.0
+python-telegram-bot==20.3
+openpyxl==3.0.12
+
+
+#options:
+#python-telegram-bot==20.3
+#openpyxl==3.0.12
